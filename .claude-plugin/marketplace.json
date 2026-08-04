@@ -12,6 +12,12 @@
       "description": "QA workflow automation — generate API and UI test cases, convert failures to bugs, push to your tracker",
       "source": "./plugins/qa-toolkit",
       "category": "testing"
+    },
+    {
+      "name": "targetcrm-bug-suite",
+      "description": "File Bugs and Defects on the TargetCRM Ideal Agile ADO project in Mahmood Ahmad's QA house style, plus ticket comments",
+      "source": "./plugins/targetcrm-bug-suite",
+      "category": "bug-tracking"
     }
   ]
 }

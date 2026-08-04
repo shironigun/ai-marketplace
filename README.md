@@ -14,6 +14,7 @@ claude plugin marketplace add github:shironigun/ai-marketplace
 | Plugin | Category | Description |
 |---|---|---|
 | [qa-toolkit](./plugins/qa-toolkit/) | testing | QA workflow automation — test case generation, bug conversion, tracker integration |
+| [targetcrm-bug-suite](./plugins/targetcrm-bug-suite/) | bug-tracking | File Bugs and Defects on the TargetCRM ADO project in Mahmood Ahmad's QA house style |
 
 ## Adding a plugin
 
