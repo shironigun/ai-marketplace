@@ -18,4 +18,4 @@
 
 - Plan: `docs/plans/2026-08-05-ai-marketplace-implementation.md`
 - Spec: `docs/superpowers/specs/2026-08-05-ai-marketplace-design.md`
-- Install command: `claude plugin marketplace add github:shironigun/ai-marketplace`
+- Install command: `claude plugin marketplace add shironigun/ai-marketplace`

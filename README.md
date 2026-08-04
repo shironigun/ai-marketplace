@@ -6,7 +6,7 @@ for AI-assisted workflows.
 ## Install
 
 ```bash
-claude plugin marketplace add github:shironigun/ai-marketplace
+claude plugin marketplace add shironigun/ai-marketplace
 ```
 
 ## Plugins

@@ -268,7 +268,7 @@ convert failures to bug reports, and push test cases to your tracker.
 First add the marketplace:
 
 ```bash
-claude plugin marketplace add github:shironigun/ai-marketplace
+claude plugin marketplace add shironigun/ai-marketplace
 ```
 
 Then install this plugin:
@@ -297,7 +297,7 @@ for AI-assisted workflows.
 ## Install
 
 ```bash
-claude plugin marketplace add github:shironigun/ai-marketplace
+claude plugin marketplace add shironigun/ai-marketplace
 ```
 
 ## Plugins
@@ -350,4 +350,4 @@ Expected files present:
    git push -u origin main
    ```
 3. **Fill in real skill content**: Copy the actual `SKILL.md` files from your other machine, replacing the placeholders
-4. **Test install**: On any machine with Claude Code: `claude plugin marketplace add github:shironigun/ai-marketplace`
+4. **Test install**: On any machine with Claude Code: `claude plugin marketplace add shironigun/ai-marketplace`

@@ -17,7 +17,7 @@ convert failures to bug reports, and push test cases to your tracker.
 Add the marketplace first:
 
 ```bash
-claude plugin marketplace add github:shironigun/ai-marketplace
+claude plugin marketplace add shironigun/ai-marketplace
 ```
 
 Then install this plugin:
