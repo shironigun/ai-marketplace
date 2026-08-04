@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shironigun",
+  "description": "AI tools marketplace by shironigun — skills, plugins, and MCP servers for AI-assisted workflows",
+  "owner": {
+    "name": "shironigun",
+    "url": "https://github.com/shironigun"
+  },
+  "plugins": [
+    {
+      "name": "qa-toolkit",
+      "description": "QA workflow automation — generate API and UI test cases, convert failures to bugs, push to your tracker",
+      "source": "./plugins/qa-toolkit",
+      "category": "testing"
+    }
+  ]
+}
