@@ -18,6 +18,24 @@
       "description": "File Bugs and Defects on the TargetCRM Ideal Agile ADO project in Mahmood Ahmad's QA house style, plus ticket comments",
       "source": "./plugins/targetcrm-bug-suite",
       "category": "bug-tracking"
+    },
+    {
+      "name": "release-notes-suite",
+      "description": "Two-stage release pipeline: harvester builds the complete engineering inventory; releaser writes dealer-facing notes for TargetCRM and Notify360",
+      "source": "./plugins/release-notes-suite",
+      "category": "release-management"
+    },
+    {
+      "name": "ui-testing",
+      "description": "UI test case authoring and Playwright script generation for TargetCRM — buggy (ADO Test Cases) and tester (cases + runnable UI specs)",
+      "source": "./plugins/ui-testing",
+      "category": "testing"
+    },
+    {
+      "name": "api-testing",
+      "description": "API test case authoring, Playwright + TypeScript script generation, and bug drafting — api-tester (cases + specs) and api-bugger (triage + bug draft)",
+      "source": "./plugins/api-testing",
+      "category": "testing"
     }
   ]
 }
